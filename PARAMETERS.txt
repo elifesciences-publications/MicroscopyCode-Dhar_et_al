@@ -1,0 +1,12 @@
+DATADIR		/users/**/**/	## Path to the directory with image data 
+MAGNIFIC	10X	## Magnification
+BRIGHTFIELD	YES
+FLUORESCENCE	NO
+NUMTIME		X	## Number of time points
+OVERALLSIZEINCCUTOFF	1	## Fraction increase cutoff (lower limit)
+INDTIMESIZEINCCUTOFF	-25	## Area increase cutoff for individual timepoints (lower limit)
+TIMEINTERVAL		90	## In minutes
+INITCOLSIZELIM		50	## Initial colonysize limit
+ALIGNVALLOWLIMIT	-50
+ALIGNVALUPLIMIT		50
+CENTDISTCUTOFF		12	## Maximum distance to search for centroid in the previous timepoint
