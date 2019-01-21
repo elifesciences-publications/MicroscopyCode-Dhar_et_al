@@ -1,5 +1,5 @@
 # MicroscopyCode
-Custom code for microscopy data analysis described in "Single cell functional genomics reveals the importance of mitochondria in cell-to-cell variation in proliferation, drug resistance and mutation outcome" by Dhar et al (https://www.biorxiv.org/content/early/2018/06/13/346361):
+Custom code for microscopy data analysis described in "Single cell functional genomics reveals the importance of mitochondria in cell-to-cell phenotypic variation" by Dhar et al (https://elifesciences.org/articles/38904):
 1. A parameter file in the given format should be included
 2. Run conversion_clustV3.pl (depending on the data format from the microscope)
 3. Run interval_check_cluster.pl
