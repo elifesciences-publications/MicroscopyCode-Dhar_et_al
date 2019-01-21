@@ -10,4 +10,4 @@ STEPS
 6. Run distribution_growth_rates_v2.pl
 
 
-Data generated from microscopy screen are in Microscopy_screen_processed_data.zip
+Data generated from microscopy screen are in the folder Microscopy_screen_processed_data
